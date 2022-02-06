@@ -1,4 +1,20 @@
 {
+  "CF145441497": {
+    "contest_id": 1634,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1634\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "OKEA",
+    "problem_url": "https://codeforces.com/contest/1634/problem/C",
+    "submission_id": "CF145441497",
+    "submission_url": "https://codeforces.com/contest/1634/submission/145441497",
+    "tags": [
+      "constructive algorithms",
+      "*1000"
+    ],
+    "timestamp": "Feb/06/2022 21:29"
+  },
   "CF146085279": {
     "contest_id": 1637,
     "language": "GNU C++20 (64)",

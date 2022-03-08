@@ -442,5 +442,22 @@
       "*1400"
     ],
     "timestamp": "Mar/09/2022 00:06"
+  },
+  "CF148923306": {
+    "contest_id": 831,
+    "language": "GNU C++17",
+    "path": "codeforces\\831\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Keyboard Layouts",
+    "problem_url": "https://codeforces.com/contest/831/problem/B",
+    "submission_id": "CF148923306",
+    "submission_url": "https://codeforces.com/contest/831/submission/148923306",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Mar/09/2022 00:56"
   }
 }

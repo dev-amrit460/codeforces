@@ -527,6 +527,22 @@
     ],
     "timestamp": "Mar/09/2022 17:58"
   },
+  "CF150395487": {
+    "contest_id": 124,
+    "language": "GNU C++17",
+    "path": "codeforces\\124\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The number of positions",
+    "problem_url": "https://codeforces.com/contest/124/problem/A",
+    "submission_id": "CF150395487",
+    "submission_url": "https://codeforces.com/contest/124/submission/150395487",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Mar/22/2022 00:47"
+  },
   "CF150550327": {
     "contest_id": 41,
     "language": "GNU C++17",

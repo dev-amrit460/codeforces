@@ -12,11 +12,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-54 | [B - Prefix Removals](https://codeforces.com/contest/1654/problem/B) | [GNU C++20 (64)](./codeforces/1654/B.cpp) | `strings` `*800` | Mar/24/2022 00:42 | 
-53 | [A - Lucky Division](https://codeforces.com/contest/122/problem/A) | [GNU C++20 (64)](./codeforces/122/A.cpp) | `brute force` `number theory` `*1000` | Mar/24/2022 00:11 | 
-52 | [A - Dubstep](https://codeforces.com/contest/208/problem/A) | [GNU C++20 (64)](./codeforces/208/A.cpp) | `strings` `*900` | Mar/23/2022 23:58 | 
-51 | [A - Football](https://codeforces.com/contest/43/problem/A) | [GNU C++20 (64)](./codeforces/43/A.cpp) | `strings` `*1000` | Mar/23/2022 23:52 | 
-50 | [A - Life Without Zeros](https://codeforces.com/contest/75/problem/A) | [GNU C++20 (64)](./codeforces/75/A.cpp) | `implementation` `*1000` | Mar/23/2022 23:43 | 
+55 | [B - Prefix Removals](https://codeforces.com/contest/1654/problem/B) | [GNU C++20 (64)](./codeforces/1654/B.cpp) | `strings` `*800` | Mar/24/2022 00:42 | 
+54 | [A - Lucky Division](https://codeforces.com/contest/122/problem/A) | [GNU C++20 (64)](./codeforces/122/A.cpp) | `brute force` `number theory` `*1000` | Mar/24/2022 00:11 | 
+53 | [A - Dubstep](https://codeforces.com/contest/208/problem/A) | [GNU C++20 (64)](./codeforces/208/A.cpp) | `strings` `*900` | Mar/23/2022 23:58 | 
+52 | [A - Football](https://codeforces.com/contest/43/problem/A) | [GNU C++20 (64)](./codeforces/43/A.cpp) | `strings` `*1000` | Mar/23/2022 23:52 | 
+51 | [A - Life Without Zeros](https://codeforces.com/contest/75/problem/A) | [GNU C++20 (64)](./codeforces/75/A.cpp) | `implementation` `*1000` | Mar/23/2022 23:43 | 
+50 | [A - Little Elephant and Rozdil](https://codeforces.com/contest/205/problem/A) | [GNU C++20 (64)](./codeforces/205/A.cpp) | `brute force` `implementation` `*900` | Mar/23/2022 23:38 | 
 49 | [B - Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) | [GNU C++17](./codeforces/339/B.cpp) | `implementation` `*1000` | Mar/23/2022 02:58 | 
 48 | [A - Wizards and Demonstration](https://codeforces.com/contest/168/problem/A) | [GNU C++17](./codeforces/168/A.cpp) | `implementation` `math` `*900` | Mar/23/2022 02:31 | 
 47 | [A - Translation](https://codeforces.com/contest/41/problem/A) | [GNU C++17](./codeforces/41/A.cpp) | `implementation` `strings` `*800` | Mar/23/2022 02:21 | 

@@ -12,9 +12,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-52 | [B - Prefix Removals](https://codeforces.com/contest/1654/problem/B) | [GNU C++20 (64)](./codeforces/1654/B.cpp) | `strings` `*800` | Mar/24/2022 00:42 | 
-51 | [A - Lucky Division](https://codeforces.com/contest/122/problem/A) | [GNU C++20 (64)](./codeforces/122/A.cpp) | `brute force` `number theory` `*1000` | Mar/24/2022 00:11 | 
-50 | [A - Dubstep](https://codeforces.com/contest/208/problem/A) | [GNU C++20 (64)](./codeforces/208/A.cpp) | `strings` `*900` | Mar/23/2022 23:58 | 
+53 | [B - Prefix Removals](https://codeforces.com/contest/1654/problem/B) | [GNU C++20 (64)](./codeforces/1654/B.cpp) | `strings` `*800` | Mar/24/2022 00:42 | 
+52 | [A - Lucky Division](https://codeforces.com/contest/122/problem/A) | [GNU C++20 (64)](./codeforces/122/A.cpp) | `brute force` `number theory` `*1000` | Mar/24/2022 00:11 | 
+51 | [A - Dubstep](https://codeforces.com/contest/208/problem/A) | [GNU C++20 (64)](./codeforces/208/A.cpp) | `strings` `*900` | Mar/23/2022 23:58 | 
+50 | [A - Football](https://codeforces.com/contest/43/problem/A) | [GNU C++20 (64)](./codeforces/43/A.cpp) | `strings` `*1000` | Mar/23/2022 23:52 | 
 49 | [B - Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) | [GNU C++17](./codeforces/339/B.cpp) | `implementation` `*1000` | Mar/23/2022 02:58 | 
 48 | [A - Wizards and Demonstration](https://codeforces.com/contest/168/problem/A) | [GNU C++17](./codeforces/168/A.cpp) | `implementation` `math` `*900` | Mar/23/2022 02:31 | 
 47 | [A - Translation](https://codeforces.com/contest/41/problem/A) | [GNU C++17](./codeforces/41/A.cpp) | `implementation` `strings` `*800` | Mar/23/2022 02:21 | 

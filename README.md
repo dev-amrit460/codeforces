@@ -12,9 +12,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-58 | [C - Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | [GNU C++20 (64)](./codeforces/1490/C.cpp) | `binary search` `brute force` `brute force` `math` `*1100` | Apr/04/2022 23:42 | 
-57 | [A - Good Pairs](https://codeforces.com/contest/1656/problem/A) | [GNU C++20 (64)](./codeforces/1656/A.cpp) | `math` `sortings` `*800` | Mar/27/2022 01:33 | 
-56 | [B - Subtract Operation](https://codeforces.com/contest/1656/problem/B) | [GNU C++20 (64)](./codeforces/1656/B.cpp) | `data structures` `greedy` `math` `two pointers` `*1100` | Mar/27/2022 01:20 | 
+59 | [C - Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | [GNU C++20 (64)](./codeforces/1490/C.cpp) | `binary search` `brute force` `brute force` `math` `*1100` | Apr/04/2022 23:42 | 
+58 | [A - Good Pairs](https://codeforces.com/contest/1656/problem/A) | [GNU C++20 (64)](./codeforces/1656/A.cpp) | `math` `sortings` `*800` | Mar/27/2022 01:33 | 
+57 | [B - Subtract Operation](https://codeforces.com/contest/1656/problem/B) | [GNU C++20 (64)](./codeforces/1656/B.cpp) | `data structures` `greedy` `math` `two pointers` `*1100` | Mar/27/2022 01:20 | 
+56 | [A - k-String](https://codeforces.com/contest/219/problem/A) | [GNU C++20 (64)](./codeforces/219/A.cpp) | `implementation` `strings` `*1000` | Mar/25/2022 21:02 | 
 55 | [B - Prefix Removals](https://codeforces.com/contest/1654/problem/B) | [GNU C++20 (64)](./codeforces/1654/B.cpp) | `strings` `*800` | Mar/24/2022 00:42 | 
 54 | [A - Lucky Division](https://codeforces.com/contest/122/problem/A) | [GNU C++20 (64)](./codeforces/122/A.cpp) | `brute force` `number theory` `*1000` | Mar/24/2022 00:11 | 
 53 | [A - Dubstep](https://codeforces.com/contest/208/problem/A) | [GNU C++20 (64)](./codeforces/208/A.cpp) | `strings` `*900` | Mar/23/2022 23:58 | 

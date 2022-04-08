@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-61 | [B - LCM](https://codeforces.com/contest/1068/problem/B) | [GNU C++20 (64)](./codeforces/1068/B.cpp) | `math` `number theory` `*1200` | Apr/12/2022 21:09 | 
-60 | [B - Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | [GNU C++20 (64)](./codeforces/1665/B.cpp) | `constructive algorithms` `greedy` `sortings` `*900` | Apr/08/2022 20:41 | 
+62 | [B - LCM](https://codeforces.com/contest/1068/problem/B) | [GNU C++20 (64)](./codeforces/1068/B.cpp) | `math` `number theory` `*1200` | Apr/12/2022 21:09 | 
+61 | [B - Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | [GNU C++20 (64)](./codeforces/1665/B.cpp) | `constructive algorithms` `greedy` `sortings` `*900` | Apr/08/2022 20:41 | 
+60 | [A - GCD vs LCM](https://codeforces.com/contest/1665/problem/A) | [GNU C++20 (64)](./codeforces/1665/A.cpp) | `constructive algorithms` `math` `*800` | Apr/08/2022 20:17 | 
 59 | [C - Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | [GNU C++20 (64)](./codeforces/1490/C.cpp) | `binary search` `brute force` `brute force` `math` `*1100` | Apr/04/2022 23:42 | 
 58 | [A - Good Pairs](https://codeforces.com/contest/1656/problem/A) | [GNU C++20 (64)](./codeforces/1656/A.cpp) | `math` `sortings` `*800` | Mar/27/2022 01:33 | 
 57 | [B - Subtract Operation](https://codeforces.com/contest/1656/problem/B) | [GNU C++20 (64)](./codeforces/1656/B.cpp) | `data structures` `greedy` `math` `two pointers` `*1100` | Mar/27/2022 01:20 | 

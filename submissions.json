@@ -1012,5 +1012,22 @@
       "*1100"
     ],
     "timestamp": "Apr/04/2022 23:42"
+  },
+  "CF153473683": {
+    "contest_id": 1068,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1068\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "LCM",
+    "problem_url": "https://codeforces.com/contest/1068/problem/B",
+    "submission_id": "CF153473683",
+    "submission_url": "https://codeforces.com/contest/1068/submission/153473683",
+    "tags": [
+      "math",
+      "number theory",
+      "*1200"
+    ],
+    "timestamp": "Apr/12/2022 21:09"
   }
 }

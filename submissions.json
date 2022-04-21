@@ -1065,6 +1065,24 @@
     ],
     "timestamp": "Apr/12/2022 21:09"
   },
+  "CF154399812": {
+    "contest_id": 1669,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1669\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Eating Candies",
+    "problem_url": "https://codeforces.com/contest/1669/problem/F",
+    "submission_id": "CF154399812",
+    "submission_url": "https://codeforces.com/contest/1669/submission/154399812",
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "two pointers"
+    ],
+    "timestamp": "Apr/21/2022 21:37"
+  },
   "CF154418087": {
     "contest_id": 1669,
     "language": "GNU C++20 (64)",

@@ -1065,6 +1065,21 @@
     ],
     "timestamp": "Apr/12/2022 21:09"
   },
+  "CF154293897": {
+    "contest_id": 1669,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1669\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Division?",
+    "problem_url": "https://codeforces.com/contest/1669/problem/A",
+    "submission_id": "CF154293897",
+    "submission_url": "https://codeforces.com/contest/1669/submission/154293897",
+    "tags": [
+      "implementation"
+    ],
+    "timestamp": "Apr/21/2022 20:08"
+  },
   "CF154312594": {
     "contest_id": 1669,
     "language": "GNU C++20 (64)",

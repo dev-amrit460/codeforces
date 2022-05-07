@@ -1181,6 +1181,22 @@
     ],
     "timestamp": "Apr/21/2022 22:04"
   },
+  "CF156237079": {
+    "contest_id": 869,
+    "language": "PyPy 3-64",
+    "path": "codeforces\\869\\B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The Eternal Immortality",
+    "problem_url": "https://codeforces.com/contest/869/problem/B",
+    "submission_id": "CF156237079",
+    "submission_url": "https://codeforces.com/contest/869/submission/156237079",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "May/08/2022 03:17"
+  },
   "CF156238146": {
     "contest_id": 1041,
     "language": "PyPy 3-64",

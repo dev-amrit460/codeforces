@@ -1181,6 +1181,23 @@
     ],
     "timestamp": "Apr/21/2022 22:04"
   },
+  "CF161228941": {
+    "contest_id": 215,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\215\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bicycle Chain",
+    "problem_url": "https://codeforces.com/contest/215/problem/A",
+    "submission_id": "CF161228941",
+    "submission_url": "https://codeforces.com/contest/215/submission/161228941",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jun/19/2022 18:50"
+  },
   "CF161752684": {
     "contest_id": 1696,
     "language": "GNU C++20 (64)",

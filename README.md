@@ -12,14 +12,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-77 | [C - Fishingprince Plays With Array](https://codeforces.com/contest/1696/problem/C) | [GNU C++20 (64)](./codeforces/1696/C.cpp) | `constructive algorithms` `greedy` `implementation` `*1400` | Jun/25/2022 21:34 | 
-76 | [B - NIT Destroys the Universe](https://codeforces.com/contest/1696/problem/B) | [GNU C++20 (64)](./codeforces/1696/B.cpp) | `greedy` `*900` | Jun/25/2022 20:36 | 
-75 | [A - NIT orz!](https://codeforces.com/contest/1696/problem/A) | [GNU C++20 (64)](./codeforces/1696/A.cpp) | `bitmasks` `greedy` `*800` | Jun/25/2022 20:25 | 
-74 | [A - Bicycle Chain](https://codeforces.com/contest/215/problem/A) | [GNU C++20 (64)](./codeforces/215/A.cpp) | `brute force` `implementation` `*900` | Jun/19/2022 18:50 | 
-73 | [A - Magic Numbers](https://codeforces.com/contest/320/problem/A) | [GNU C++20 (64)](./codeforces/320/A.cpp) | `brute force` `greedy` `*900` | Jun/19/2022 18:42 | 
-72 | [A - Hexadecimal's theorem](https://codeforces.com/contest/199/problem/A) | [GNU C++20 (64)](./codeforces/199/A.cpp) | `brute force` `constructive algorithms` `implementation` `number theory` `*900` | Jun/19/2022 18:37 | 
-71 | [C - Helping the Nature](https://codeforces.com/contest/1700/problem/C) | [GNU C++20 (64)](./codeforces/1700/C.cpp) | `constructive algorithms` `data structures` `greedy` `*1700` | Jun/19/2022 16:30 | 
-70 | [B - Palindromic Numbers ](https://codeforces.com/contest/1700/problem/B) | [Python 3](./codeforces/1700/B.py) | `constructive algorithms` `implementation` `math` `*1100` | Jun/19/2022 15:49 | 
+78 | [C - Fishingprince Plays With Array](https://codeforces.com/contest/1696/problem/C) | [GNU C++20 (64)](./codeforces/1696/C.cpp) | `constructive algorithms` `greedy` `implementation` `*1400` | Jun/25/2022 21:34 | 
+77 | [B - NIT Destroys the Universe](https://codeforces.com/contest/1696/problem/B) | [GNU C++20 (64)](./codeforces/1696/B.cpp) | `greedy` `*900` | Jun/25/2022 20:36 | 
+76 | [A - NIT orz!](https://codeforces.com/contest/1696/problem/A) | [GNU C++20 (64)](./codeforces/1696/A.cpp) | `bitmasks` `greedy` `*800` | Jun/25/2022 20:25 | 
+75 | [A - Bicycle Chain](https://codeforces.com/contest/215/problem/A) | [GNU C++20 (64)](./codeforces/215/A.cpp) | `brute force` `implementation` `*900` | Jun/19/2022 18:50 | 
+74 | [A - Magic Numbers](https://codeforces.com/contest/320/problem/A) | [GNU C++20 (64)](./codeforces/320/A.cpp) | `brute force` `greedy` `*900` | Jun/19/2022 18:42 | 
+73 | [A - Hexadecimal's theorem](https://codeforces.com/contest/199/problem/A) | [GNU C++20 (64)](./codeforces/199/A.cpp) | `brute force` `constructive algorithms` `implementation` `number theory` `*900` | Jun/19/2022 18:37 | 
+72 | [C - Helping the Nature](https://codeforces.com/contest/1700/problem/C) | [GNU C++20 (64)](./codeforces/1700/C.cpp) | `constructive algorithms` `data structures` `greedy` `*1700` | Jun/19/2022 16:30 | 
+71 | [B - Palindromic Numbers ](https://codeforces.com/contest/1700/problem/B) | [Python 3](./codeforces/1700/B.py) | `constructive algorithms` `implementation` `math` `*1100` | Jun/19/2022 15:49 | 
+70 | [A - Optimal Path](https://codeforces.com/contest/1700/problem/A) | [GNU C++20 (64)](./codeforces/1700/A.cpp) | `constructive algorithms` `greedy` `math` `*800` | Jun/19/2022 14:50 | 
 69 | [G - Fall Down](https://codeforces.com/contest/1669/problem/G) | [GNU C++20 (64)](./codeforces/1669/G.cpp) | `dfs and similar` `implementation` | Apr/21/2022 22:04 | 
 68 | [F - Eating Candies](https://codeforces.com/contest/1669/problem/F) | [GNU C++20 (64)](./codeforces/1669/F.cpp) | `binary search` `data structures` `greedy` `two pointers` | Apr/21/2022 21:37 | 
 67 | [E - 2-Letter Strings](https://codeforces.com/contest/1669/problem/E) | [GNU C++20 (64)](./codeforces/1669/E.cpp) | `brute force` `data structures` `math` `strings` | Apr/21/2022 21:03 | 

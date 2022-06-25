@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-70 | [C - Fishingprince Plays With Array](https://codeforces.com/contest/1696/problem/C) | [GNU C++20 (64)](./codeforces/1696/C.cpp) | `constructive algorithms` `greedy` `implementation` `*1400` | Jun/25/2022 21:34 | 
+71 | [C - Fishingprince Plays With Array](https://codeforces.com/contest/1696/problem/C) | [GNU C++20 (64)](./codeforces/1696/C.cpp) | `constructive algorithms` `greedy` `implementation` `*1400` | Jun/25/2022 21:34 | 
+70 | [B - NIT Destroys the Universe](https://codeforces.com/contest/1696/problem/B) | [GNU C++20 (64)](./codeforces/1696/B.cpp) | `greedy` `*900` | Jun/25/2022 20:36 | 
 69 | [G - Fall Down](https://codeforces.com/contest/1669/problem/G) | [GNU C++20 (64)](./codeforces/1669/G.cpp) | `dfs and similar` `implementation` | Apr/21/2022 22:04 | 
 68 | [F - Eating Candies](https://codeforces.com/contest/1669/problem/F) | [GNU C++20 (64)](./codeforces/1669/F.cpp) | `binary search` `data structures` `greedy` `two pointers` | Apr/21/2022 21:37 | 
 67 | [E - 2-Letter Strings](https://codeforces.com/contest/1669/problem/E) | [GNU C++20 (64)](./codeforces/1669/E.cpp) | `brute force` `data structures` `math` `strings` | Apr/21/2022 21:03 | 

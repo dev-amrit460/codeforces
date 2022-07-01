@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+81 | [B - Draw!](https://codeforces.com/contest/1131/problem/B) | [GNU C++20 (64)](./codeforces/1131/B.cpp) | `greedy` `implementation` `*1400` | Jul/01/2022 14:50 | 
 80 | [C - Fishingprince Plays With Array](https://codeforces.com/contest/1696/problem/C) | [GNU C++20 (64)](./codeforces/1696/C.cpp) | `constructive algorithms` `greedy` `implementation` `*1400` | Jun/25/2022 21:34 | 
 79 | [B - NIT Destroys the Universe](https://codeforces.com/contest/1696/problem/B) | [GNU C++20 (64)](./codeforces/1696/B.cpp) | `greedy` `*900` | Jun/25/2022 20:36 | 
 78 | [A - NIT orz!](https://codeforces.com/contest/1696/problem/A) | [GNU C++20 (64)](./codeforces/1696/A.cpp) | `bitmasks` `greedy` `*800` | Jun/25/2022 20:25 | 

@@ -1402,5 +1402,22 @@
       "*1400"
     ],
     "timestamp": "Jun/25/2022 21:34"
+  },
+  "CF162418399": {
+    "contest_id": 1131,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1131\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Draw!",
+    "problem_url": "https://codeforces.com/contest/1131/problem/B",
+    "submission_id": "CF162418399",
+    "submission_url": "https://codeforces.com/contest/1131/submission/162418399",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Jul/01/2022 14:50"
   }
 }
